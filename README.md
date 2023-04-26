@@ -6,7 +6,7 @@
   
 # Enter your name and choose your colors
   
-![1](https://user-images.githubusercontent.com/120946916/234656667-8330346a-5bc7-4245-be29-54cacf688799.png)
+![1](https://user-images.githubusercontent.com/120946916/234657433-0b44490c-ec58-4c79-95dc-43b7e4121436.png)
   
 # At each turn, choose the column where you want to deposit your piece by clicking on the corresponding button
   
