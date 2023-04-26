@@ -10,10 +10,10 @@
   
 # At each turn, choose the column where you want to deposit your piece by clicking on the corresponding button
   
-![2](https://user-images.githubusercontent.com/120946916/234656907-9a42c80d-e11b-4d7b-a28f-f27cde61c736.png)
+![2](https://user-images.githubusercontent.com/120946916/234660755-5de422a4-78eb-4844-be43-d8606bbc666e.png)
 
 # At the end, the winner is displayed on the screen
 
-![3](https://user-images.githubusercontent.com/120946916/234657017-072663f0-831c-41fe-950e-0d432003df23.png)
+![3](https://user-images.githubusercontent.com/120946916/234660837-9915c297-9e65-4911-a8e2-cb0c14ebd163.png)
 
 </div>
