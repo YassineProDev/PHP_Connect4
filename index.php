@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-   <link href="assets/css/style.css" rel="stylesheet">
+   <link href="assets/css/Style.css" rel="stylesheet">
   <title>Connect 4</title>
 </head>
 <body>
@@ -66,7 +66,7 @@ if(isset($_POST['submit']))
         }
         else 
         {
-	      echo "<center><span class='erreur'>Les informations ne sont pas correctes</span></center>"; 
+	      echo "<center><span class='erreur'>The names or colors are not correct.</span></center>"; 
 		}
 }	
 
