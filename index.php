@@ -48,7 +48,7 @@
 
 
 <?php
-include("Modele.php");
+include("Functions.php");
 if(isset($_POST['submit']))
 {  	
 	session_start();
@@ -62,7 +62,7 @@ if(isset($_POST['submit']))
 			$_SESSION['color1'] = htmlspecialchars($_POST['color1']);
 			$_SESSION['color2'] = htmlspecialchars($_POST['color2']);
 			InitGame();
-			header("Location: Controleur.php");
+			header("Location: Game.php");
         }
         else 
         {

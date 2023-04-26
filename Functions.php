@@ -91,7 +91,7 @@ function diagonal2($i , $j) : bool
 		--$column;
 	}
 	
-	$ligne = $i;
+	$line = $i;
 	$column = $j;
 	while($line >=0  && $i>=0 && $column >=0 &&  $line < 5 && $column < 6  && $_SESSION['board'][$i][$j] == $_SESSION['board'][$line+1][$column+1])
 	{

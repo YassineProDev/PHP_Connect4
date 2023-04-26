@@ -6,7 +6,7 @@ session_start();
 if( !isset($_SESSION['player1']) or !isset($_SESSION['player2'])){
     die('<p style="color:white">Connect you!</p>');
 }
-include("Modele.php");
+include("Functions.php");
 
 	echo "<center><div class='formbouton'>";
 	echo("<form method='post'> ");
