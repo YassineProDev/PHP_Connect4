@@ -1,4 +1,4 @@
-<link href="assets/css/style.css" rel="stylesheet">
+<link href="assets/css/Style.css" rel="stylesheet">
 <?php
 
 session_start();
@@ -44,18 +44,18 @@ include("Functions.php");
 			if($case == 3)
 			{
 				echo "<span class = 'rouge'>";
-				echo("<img src='assets/img/Rouge.png' style='width:10%;'></img>");
+				echo("<img src='assets/img/Red.png' style='width:10%;'></img>");
 				echo "</span>";
 			}
 			else if($case == 4)
 			{
 				echo "<span class = 'jaune'>";
-				echo("<img src='assets/img/Jaune.png' style='width:10%;'></img>");
+				echo("<img src='assets/img/Yellow.png' style='width:10%;'></img>");
 				echo "</span>";
 			}
 			else 
 			{
-				echo("<img src='assets/img/Vide.png' style='width:10%;'></img>");
+				echo("<img src='assets/img/Empty.png' style='width:10%;'></img>");
 			}
 			echo "   ";
 		}
